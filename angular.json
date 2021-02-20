@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "myCssTestProjekt"
+    }
+  },
+  "defaultProject": "myCssTestProjekt",
+  "cli": {
+    "analytics": "90b73827-92fb-41e4-9b44-722f6fd380c9"
+  }
 }
